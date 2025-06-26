@@ -75,16 +75,6 @@ A passionate AI/ML developer with strong skills in data analytics, web developme
 
 ---
 
-## 🚀 Projects
-> Here are some of my highlighted projects. Visit [Repositories](https://github.com/prnv007-rgb?tab=repositories) for the full list.
-
-| Project | Description | Live Demo | Repo |
-| ------- | ----------- | --------- | ---- |
-| **Resume Builder** | Web app to generate AI-powered resumes | [Demo](#) | [Repo](#) |
-| **Image Classifier** | Deep learning model for object detection | [Demo](#) | [Repo](#) |
-| **DevOps Pipeline** | CI/CD setup with GitHub Actions & Docker | — | [Repo](#) |
-
----
 
 <p align="center">
   Made with ❤️ in India
