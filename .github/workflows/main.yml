@@ -1,0 +1,43 @@
+# GitHub Action for generating a contribution graph with a snake eating the contributions
+name: Generate Snake
+
+on:
+  # Run automatically every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+
+  # Allows to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          # Your GitHub username
+          github_user_name: ${{ github.repository_owner }}
+
+          # A list of comma-separated branches to include in the contribution graph
+          # The main branch of your repo is included by default
+          # For example, you can add "main,master"
+          branches: main
+
+          # The output file for the animation. This will be created in the `output` branch
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # The branch the action should deploy to
+          target_branch: output
+          # The folder the action should deploy
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
