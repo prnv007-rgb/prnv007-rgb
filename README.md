@@ -1,18 +1,27 @@
-## 👋 Hi, I'm Pranav R. Mallia  
-**AI & Machine Learning Developer** | **Recommender Systems Specialist** | **NLP & LLM Expert**  
+# Hi, I'm Pranav R. Mallia 👋
 
-I build intelligent systems that merge data-driven insights with creative user experiences.  
-From hybrid recommenders to AI-powered web generators, my projects blend research-grade accuracy with real-world usability.
+I am an AI and Machine Learning Developer specializing in building intelligent, data-driven applications. My passion lies in transforming complex data into intuitive and impactful user experiences, with expertise in Recommender Systems, Natural Language Processing, and LLMs.
 
 ---
 
-### 🎮 Explore My AI Arcade
+### 🚀 **Explore My Interactive Portfolio**
+
+I've developed a live, interactive portfolio to showcase my projects. Click the link below to see my work in action.
+
 <p align="center">
   <a href="https://main-page-hazel.vercel.app/">
-    <img src="arcade-preview.png" alt="AI Arcade Preview" width="800" style="border-radius: 12px; box-shadow: 0 0 20px #00ffff;">
+    <h2>➡️ View My AI & ML Projects</h2>
   </a>
 </p>
 
-<p align="center">
-  🚀 <a href="https://main-page-hazel.vercel.app/">Play Now</a> | 💡 Built with ❤️ by <strong>Pranav R. Mallia</strong>
+---
+
+### 📫 Get in Touch
+
+You can connect with me on LinkedIn. I'm always open to discussing new projects, creative ideas, or opportunities in AI.
+
+<p>
+  <a href="https://linkedin.com/in/pranavmallia">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
