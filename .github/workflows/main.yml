@@ -16,18 +16,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      # THE FIX IS IN THIS SECTION: We are using v3 and removed the 'branches' input
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          # Your GitHub username
+          # Your GitHub username is picked up automatically
           github_user_name: ${{ github.repository_owner }}
-
-          # A list of comma-separated branches to include in the contribution graph
-          # The main branch of your repo is included by default
-          # For example, you can add "main,master"
-          branches: main
-
-          # The output file for the animation. This will be created in the `output` branch
+          
+          # The output files for the animation
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
