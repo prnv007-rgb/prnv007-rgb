@@ -1,125 +1,124 @@
-# 🚀 Welcome to Pranav's Digital Universe
+# 🎮 WELCOME TO PRANAV'S DIGITAL PLAYGROUND
 
 ```ascii
-██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║
-██████╔╝██████╔╝███████║██╔██╗ ██║███████║██║   ██║
-██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝
-██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝ 
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  
-                                                     
-        🤖 AI Engineer • 🧠 ML Enthusiast • 🎯 Problem Solver
+    ██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗   ██╗  
+    ██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║  
+    ██████╔╝██████╔╝███████║██╔██╗ ██║███████║██║   ██║  
+    ██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝  
+    ██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝   
+    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝   
+                                                          
+         🤖 CRAFTING AI MAGIC • 🚀 BUILDING THE FUTURE
 ```
 
 <div align="center">
 
-### 👋 I'm Pranav R. Mallia - Where AI Meets Creativity
-
-*Building the future, one algorithm at a time* ✨
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Engineer;Recommendation+Systems+Expert;Full-Stack+Developer;Competitive+Programming+Enthusiast;Always+Learning+Something+New!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Pranav!;🧠+AI+%26+ML+Wizard;🎯+Recommendation+Systems+Master;💻+Full-Stack+Creator;🏆+Problem+Solver+Extraordinaire;☕+Powered+by+Coffee+%26+Code)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎮 **Choose Your Adventure!** 
-*Click on an emoji to explore different sections:*
+## 🎲 ROLL THE DICE - PICK YOUR ADVENTURE!
 
-| 🔥 [Tech Arsenal](#-tech-arsenal) | 🚀 [Current Projects](#-current-projects) | 🧠 [AI Experiments](#-my-ai-experiments) |
-|:---:|:---:|:---:|
-| 📊 [Stats & Achievements](#-stats--achievements) | 🎯 [Mini Game](#-mini-game-ai-decision-tree) | 📫 [Let's Connect](#-lets-build-something-amazing-together) |
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60">
+<br><strong><a href="#-battle-station">⚡ BATTLE STATION</a></strong>
+</td>
+<td align="center" width="20%">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="60">
+<br><strong><a href="#-live-projects">🚀 LIVE PROJECTS</a></strong>
+</td>
+<td align="center" width="20%">
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="60">
+<br><strong><a href="#-ai-lab">🧪 AI LAB</a></strong>
+</td>
+<td align="center" width="20%">
+<img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="60">
+<br><strong><a href="#-boss-fight">🎮 BOSS FIGHT</a></strong>
+</td>
+<td align="center" width="20%">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60">
+<br><strong><a href="#-power-level">📊 POWER LEVEL</a></strong>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 **Tech Arsenal**
+## ⚡ **BATTLE STATION**
 
 <div align="center">
 
-### 🧠 **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### 🔥 AI ARSENAL
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFCD00?style=for-the-badge)
 
-### 🌐 **Full-Stack Development**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### ☁️ **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 💻 WEB MAGIC
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 **Current Projects**
+## 🚀 **LIVE PROJECTS**
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 **AI-Powered Recommender System**
+### 🎯 **RECOMMENDATION BEAST**
+```yaml
+🎮 Status: BOSS LEVEL COMPLETE
+🔥 Power: Hybrid AI Engine
+⚡ Speed: Lightning Fast
+🎪 Fun Factor: 9000+
+```
+*Making Netflix jealous since 2024* 😎
+
+<details>
+<summary>🕹️ <strong>CHEAT CODES</strong></summary>
+
 ```python
-# Multi-dataset hybrid approach
-datasets = ["Yelp", "MovieLens", "Amazon"]
-techniques = ["SVD", "NMF", "BGE Embeddings"]
-status = "🔥 Production Ready"
+# Secret formula revealed!
+def ultimate_recommender():
+    classic = SVD() + NMF() + KNN()
+    modern = BGE() + E5() + Phi3()
+    return classic.fusion(modern) * COFFEE_POWER
 ```
-*Combining classical algorithms with modern embeddings for next-gen recommendations*
+</details>
 
 </td>
 <td width="50%">
 
-### 🤖 **RAG Pipeline with LLaMA**
+### 🤖 **RAG CHATBOT ARMY**
+```yaml
+🎮 Status: MULTIPLAYER READY
+🧠 IQ: Einstein Level
+💬 Sass: Maximum
+🌟 Reviews: ⭐⭐⭐⭐⭐
+```
+*Your documents finally have a voice!* 🗣️
+
+<details>
+<summary>🎪 <strong>BEHIND THE CURTAIN</strong></summary>
+
 ```javascript
-// Intelligent document Q&A system
-const pipeline = {
-  embedding: "E5-large",
-  vectorDB: "FAISS",
-  llm: "LLaMA-2",
-  status: "✨ Deployed"
+const magic = {
+  brain: "LLaMA-2 🦙",
+  memory: "FAISS Vector DB 🧠",
+  mood: "Helpful but sassy 😏",
+  secretWeapon: "Embeddings ✨"
 }
 ```
-*Building conversational AI that understands your documents*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 **Interactive AI Web Tools**
-```css
-/* Beautiful + Functional */
-.tech-stack {
-  frontend: "React + Tailwind";
-  backend: "FastAPI";
-  ai: "Gemini + Hugging Face";
-  vibe: "🎉 Mind-blowing UX";
-}
-```
-*Where AI meets stunning web design*
-
-</td>
-<td width="50%">
-
-### 🏆 **Competitive Programming Bot**
-```rust
-// Algorithm solver with AI reasoning
-fn solve_challenge(problem: &str) -> Solution {
-    let strategy = ai_analyze(problem);
-    optimize_with_classics(strategy)
-}
-// Status: 📈 Climbing leaderboards
-```
-*Teaching AI to think like a competitive programmer*
+</details>
 
 </td>
 </tr>
@@ -127,209 +126,204 @@ fn solve_challenge(problem: &str) -> Solution {
 
 ---
 
-## 🧠 **My AI Experiments**
+## 🧪 **AI LAB** 
 
 <div align="center">
 
-### 🏆 **Research Achievements**
+### 🏆 LEGENDARY ACHIEVEMENTS UNLOCKED
 
 </div>
 
-| 🔬 **Experiment** | 🎯 **Focus Area** | 📊 **Impact** |
-|---|---|---|
-| **Emotion Detection with RoBERTa + CapsNet** | NLP + Deep Learning | 94.2% accuracy on sentiment analysis |
-| **Hybrid Embedding Search Systems** | Information Retrieval | 40% improvement in recommendation precision |
-| **Cross-Domain RAG Evaluation** | LLM Applications | Published comparative study across 5 models |
-| **Real-time Recommendation APIs** | System Architecture | Handling 10K+ requests/minute |
+| 🏅 **ACHIEVEMENT** | ⚡ **POWER MOVE** | 🎯 **DAMAGE DEALT** |
+|:---:|:---:|:---:|
+| 🎭 **Emotion Detector Pro** | RoBERTa + CapsNet Combo | 94.2% Critical Hit Rate |
+| 🔍 **Search Ninja** | Hybrid Embedding Jutsu | +40% Precision Boost |
+| 📚 **RAG Master** | Cross-Domain Ultimate | 5-Model Comparative Study |
+| ⚡ **Speed Demon** | Real-time API Beast | 10K+ Requests/Min |
 
 <details>
-<summary>🔍 <strong>Deep Dive: My Recommendation System Journey</strong></summary>
+<summary>🎮 <strong>SECRET LEVEL: RECOMMENDATION SYSTEM MASTERY</strong></summary>
 
-```mermaid
-graph TD
-    A[User Behavior Data] --> B[Classical Algorithms]
-    A --> C[Modern Embeddings]
-    B --> D[SVD Matrix Factorization]
-    B --> E[KNN Collaborative Filtering]
-    C --> F[BGE Text Embeddings]
-    C --> G[Phi3 & MiniLM Models]
-    D --> H[Hybrid Fusion Engine]
-    E --> H
-    F --> H
-    G --> H
-    H --> I[Personalized Recommendations]
-    
-    style A fill:#ff9999
-    style H fill:#99ff99
-    style I fill:#9999ff
+```
+🎯 MISSION BRIEFED:
+Transform boring data into personalized magic!
+
+🛠️ WEAPONS CHOSEN:
+├── 📊 Classic Algorithms (the reliable veterans)
+├── 🤖 Modern Embeddings (the new hotshots) 
+├── ⚡ FAISS (the speed demon)
+└── 🧠 LLM Integration (the genius move)
+
+🏆 MISSION STATUS: LEGENDARY COMPLETE
+🎪 SIDE EFFECT: Users addicted to recommendations
 ```
 
-**The Secret Sauce:** Combining the reliability of classical methods with the semantic understanding of modern transformers!
+*Plot Twist: The real treasure was the algorithms we mastered along the way!* 💎
 
 </details>
 
 ---
 
-## 🎯 **Mini Game: AI Decision Tree**
+## 🎮 **BOSS FIGHT: AI TRIVIA CHALLENGE**
 
-*Test your AI knowledge! Choose your path:*
+<div align="center">
 
-**🤖 You're building a recommendation system. What's your first move?**
+### 🔥 **CAN YOU DEFEAT THE RECOMMENDATION DRAGON?**
+
+</div>
+
+**🐉 BOSS:** *"Your recommendation system has cold-start users! What's your move?"*
 
 <details>
-<summary>A) 📊 Start with collaborative filtering</summary>
+<summary>⚔️ Attack with Content-Based Filtering</summary>
 
-Good choice! You're thinking like a classic ML engineer. 
+**BOSS:** *"Predictable! But not bad..."*
+- **DAMAGE:** 30/100 HP
+- **BOSS COUNTERATTACK:** *"What about users with no profile data at all?"*
 
-**Next challenge:** Your data is sparse. What do you do?
 <details>
-<summary>A1) Use matrix factorization (SVD)</summary>
-
-🎉 **Expert Level!** You know your fundamentals. SVD handles sparsity beautifully by finding latent factors.
-
-**Final Boss:** How do you handle cold-start users?
-- Hint: Think embeddings + content-based approaches! 🧠
+<summary>🛡️ Use Popular Items as Fallback</summary>
+**NICE COMBO!** 
+- **TOTAL DAMAGE:** 60/100 HP
+- **BOSS:** *"Clever... but I'm still standing!"*
 </details>
 <details>
-<summary>A2) Switch to content-based filtering</summary>
-
-🤔 Not bad, but you might lose valuable collaborative signals. Consider a hybrid approach!
+<summary>🔥 Deploy Demographic-Based Recommendations</summary>
+**CRITICAL HIT!** 
+- **TOTAL DAMAGE:** 90/100 HP  
+- **BOSS:** *"Impressive! You know your fundamentals!"*
 </details>
-</details>
 
-<details>
-<summary>B) 🧠 Jump straight to transformer embeddings</summary>
-
-Ambitious! You're thinking modern AI-first.
-
-**Plot twist:** You have limited computational budget. Now what?
-<details>
-<summary>B1) Use efficient models like MiniLM</summary>
-
-💡 **Smart move!** You understand the trade-off between performance and efficiency.
-</details>
-<details>
-<summary>B2) Stick with large models anyway</summary>
-
-😅 Your users are waiting... and your server bills are growing! Maybe reconsider?
-</details>
 </details>
 
 <details>
-<summary>C) 🔥 Build a hybrid system from day one</summary>
+<summary>🧠 Cast Embedding Magic Spell</summary>
 
-🏆 **Master Strategist!** You're thinking like a production engineer. Hybrid systems give you the best of both worlds:
-- Classical reliability + Modern semantic understanding
-- Fallback options + Continuous learning
-- You've unlocked the secret ending! 🎊
+**BOSS:** *"Ooh, fancy! But can you handle the computational cost?"*
+- **DAMAGE:** 50/100 HP
+
+<details>
+<summary>⚡ Use Lightweight Models (MiniLM)</summary>
+**BOSS DEFEATED!** 🎉
+- **VICTORY MESSAGE:** *"You have mastered the art of efficient AI! The recommendation realm is yours!"*
+- **REWARD UNLOCKED:** 🏆 **Master of Practical AI** badge
+</details>
+<details>
+<summary>💰 Throw Money at Bigger Servers</summary>
+**BOSS LAUGHS:** *"Money can't solve everything, young grasshopper!"*
+- **DAMAGE:** 10/100 HP
+- **GAME OVER:** Try again with smarter strategies! 😅
+</details>
+
+</details>
+
+<details>
+<summary>🎭 Confuse Boss with Hybrid Approach</summary>
+
+**BOSS:** *"WHAT?! You're using EVERYTHING?!"*
+- **MASSIVE DAMAGE:** 95/100 HP
+- **BOSS:** *"This... this is beyond my programming!"*
+
+**🎊 FLAWLESS VICTORY!**
+- **LEGENDARY REWARD:** 👑 **Hybrid AI Grandmaster** title
+- **SECRET UNLOCKED:** You understand that the best solutions combine old wisdom with new innovation!
 
 </details>
 
 ---
 
-## 📊 **Stats & Achievements**
+## 📊 **POWER LEVEL: OVER 9000!**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavmallia&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavmallia&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavmallia&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavmallia&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavmallia&theme=neon&hide_border=true)
 
 </div>
 
-### 🏆 **GitHub Trophies**
+<table align="center">
+<tr>
+<td align="center">
+
+### ⚡ **CURRENT STREAK**
+![](https://img.shields.io/badge/Days_Coding-365+-00D9FF?style=for-the-badge&logo=github)
+
+</td>
+<td align="center">
+
+### 🏆 **BOSS DEFEATS**
+![](https://img.shields.io/badge/Algorithms_Conquered-∞-FF6B6B?style=for-the-badge&logo=codewars)
+
+</td>
+<td align="center">
+
+### ☕ **FUEL CONSUMED**
+![](https://img.shields.io/badge/Coffee_Cups-9000+-8B4513?style=for-the-badge&logo=buy-me-a-coffee)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranavmallia&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pranavmallia&theme=discord&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-### 📈 **Fun Facts & Easter Eggs**
+---
 
-<div align="center">
-
-| 🎲 **Random Fact** | 📊 **Number** |
-|:---|---:|
-| Lines of Python code written | ![](https://img.shields.io/badge/50K+-blue?style=flat-square) |
-| Recommendation models trained | ![](https://img.shields.io/badge/25+-green?style=flat-square) |
-| Coffee cups consumed while coding | ![](https://img.shields.io/badge/∞-brown?style=flat-square) |
-| Algorithms that keep me up at night | ![](https://img.shields.io/badge/Too_Many-red?style=flat-square) |
-
-</div>
+## 🎪 **EASTER EGG HUNT**
 
 <details>
-<summary>🥚 <strong>Hidden Easter Egg</strong> - Click to reveal!</summary>
+<summary>🥚 <strong>CLICK IF YOU DARE...</strong></summary>
 
 ```python
-# The secret to great AI systems
-def build_awesome_ai():
-    ingredients = [
-        "1 cup of curiosity",
-        "2 tablespoons of perseverance", 
-        "A pinch of creativity",
-        "Lots of coffee ☕",
-        "And a sprinkle of magic ✨"
-    ]
-    
-    while not perfect:
-        learn_from_mistakes()
-        iterate_and_improve()
-        
-    return "Something beautiful" 🎨
+# 🎭 The Ultimate AI Developer's Confession
+def my_secret():
+    truth = {
+        "debug_method": "Explain code to rubber duck 🦆",
+        "best_ideas_time": "3 AM with coffee ☕",
+        "favorite_error": "It works on my machine! 🤷‍♂️",
+        "ultimate_fear": "Prod deployment on Friday 😱",
+        "super_power": "Googling error messages 🔍"
+    }
+    return "We're all just Googling our way to greatness! 🌟"
 
-# P.S. The real magic is in the journey, not the destination! 
+# 🎉 CONGRATULATIONS! You found the secret developer truth!
+# 🏆 Achievement Unlocked: "Easter Egg Hunter"
 ```
 
-🎉 **You found the easter egg!** You clearly have the curiosity of a great developer!
+**BONUS JOKE:**
+> Why do AI developers prefer dark mode?
+> 
+> Because light attracts bugs! 🐛✨
 
 </details>
 
 ---
 
-## 🌟 **What Drives Me**
-
-> *"The intersection of AI and creativity is where magic happens. I don't just build systems - I craft experiences that make technology feel human."*
-
-- 🎯 **Mission**: Create AI tools that are both powerful and delightful to use
-- 🌱 **Currently Learning**: Advanced RAG architectures & multimodal AI
-- 🤝 **Open to Collaborate**: AI projects, hackathons, and research initiatives
-- ⚡ **Fun Fact**: I debug by explaining code to my rubber duck (it's surprisingly helpful!)
-
----
-
-## 📫 **Let's Build Something Amazing Together!**
+## 🌟 **JOIN THE ADVENTURE**
 
 <div align="center">
 
-*Ready to turn wild AI ideas into reality? Let's connect!* 🚀
+### 🎮 **READY TO CO-OP?**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavmallia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animated=true)](https://linkedin.com/in/pranavmallia)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pranavmallia)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranav.mallia@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pranavmallia.dev)
 
-### 💌 **Open for:**
-- 🤖 AI/ML collaboration projects
-- 🌐 Full-stack development gigs  
-- 🎯 Recommendation system consulting
-- ☕ Coffee chats about the future of AI
+### 🚀 **PARTY INVITATIONS OPEN FOR:**
+🤖 AI Adventures • 🌐 Web Wizardry • 🎯 Recommendation Quests • ☕ Coffee & Code Sessions
 
 ---
 
-<sub>💡 **Pro tip:** Star this repo if you made it this far - you're clearly someone who appreciates good documentation! ⭐</sub>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thanks for visiting my digital playground!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60">
+
+### 🎊 **MISSION COMPLETE: You've explored my entire universe!**
+
+*Made with ❤️, powered by ☕, and a lot of 🎮*
 
 ![Visitor Count](https://profile-counter.glitch.me/pranavmallia/count.svg)
-
-</div>
-
----
-
-<div align="center">
-
-**🎊 Thanks for visiting! Now go build something incredible! 🚀**
-
-*Made with ❤️, lots of ☕, and a dash of ✨ by Pranav*
 
 </div>
