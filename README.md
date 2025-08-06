@@ -9,7 +9,7 @@ I've created a digital space to bring my projects to life. The portal is now ope
   <br>
   
   ##  [ STEP THROUGH THE PORTAL ] 
-  ### **[Enter My Interactive AI Portfolio](https://main-page-hazel.vercel.app/3)**
+  ### **[Enter My Interactive AI Portfolio](https://main-page-git-main-pranavs-projects-6bbf29bb.vercel.app/)**
   
   <br>
   ---
