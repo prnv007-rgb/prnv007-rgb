@@ -1,4 +1,4 @@
-<h2 align="center">🎮 Welcome to the <span style="color:#00ffff;">AI Arcade</span> 🎮</h2>
+<h2 align="center">🎮 Welcome to my <span style="color:#00ffff;">AI Arcade(</span> 🎮</h2>
 
 <p align="center">
   <a href="https://main-page-hazel.vercel.app/">
@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  🚀 <a href="https://main-page-hazel.vercel.app/">Play Now</a> | 💡 Built with ❤️ by <strong>Pranav R. Mallia</strong>
+  🚀 <a href="https://main-page-hazel.vercel.app/">Play Now</a> | Built by <strong>Pranav R. Mallia</strong>
 </p>
