@@ -1,83 +1,74 @@
 
-<p align="center">
-  </p>
 
-<h1 align="center">👋 Hi, I’m Pranav R Mallia</h1>
-<p align="center">
-  <strong>CS Undergrad | AI & ML Enthusiast | Web Engineer</strong><br/>
-  Building data-driven tools & intelligent web apps to solve real-world problems.
-</p>
+<div align="center">
 
-<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Pranav+R+Mallia+%F0%9F%91%8B;AI+%26+ML+Enthusiast;Full-Stack+Web+Developer;Turning+Ideas+into+Reality" alt="Typing SVG" /></a>
+
+</div>
+
+<div align="center">
   <a href="https://linkedin.com/in/prnv007" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/prnv007-rgb/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://twitter.com/prnv007_rbg" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="mailto:pranavmallia2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=prnv007-rgb&label=Profile%20views&color=0e75b6&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=prnv007-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-A passionate AI/ML developer with strong skills in data analytics, web development, and DevOps. I enjoy turning complex data into actionable insights and building scalable web applications.
+I'm a passionate **Computer Science** student from India, driven by the challenge of building intelligent, data-driven applications. My journey in tech is fueled by a fascination for **AI/ML**, the elegance of **cloud architecture**, and the art of creating seamless **web experiences**. I thrive on turning complex data into actionable insights and enjoy every step of the development lifecycle, from ideation to deployment.
 
-- 🎓 **Education:** B.Tech in Computer Science (Expected 2026)
-- 🌱 **Currently Learning:** Transformer-based NLP, Kubernetes, Docker
-- ⚡ **Interests:** Computer Vision, Deep Learning, Cloud Architecture
+- 🎓 &nbsp; **Studying:** B.Tech in Computer Science (Expected 2026).
+- 🌱 &nbsp; **Exploring:** The depths of Transformer architectures, NLP, and scalable deployments with Kubernetes & Docker.
+- 💡 &nbsp; **Interests:** Computer Vision, Deep Learning, and building robust backend systems.
+- 💬 &nbsp; **Ask me about:** Python, PyTorch, MERN Stack, or my latest project!
 
 ---
+
+### 🛠️ My Tech Arsenal
 
 <details>
-<summary><strong>🛠️ Languages & Tools</strong></summary>
+<summary>Click to see my full list of languages, frameworks, and tools</summary>
 <br/>
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="200">
-      <strong>ML & Data Science</strong>
+      <strong>🤖 ML & Data Science</strong>
     </td>
     <td>
-      <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-      <a href="https://pytorch.org"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-      <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-      <a href="https://pandas.pydata.org"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-      <a href="https://www.seaborn.pydata.org"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-      <a href="https://opencv.org"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Frontend Development</strong>
+      <strong>🌐 Web Development</strong>
     </td>
     <td>
-      <a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-      <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-      <a href="https://html.spec.whatwg.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-      <a href="https://www.css3.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Backend & Databases</strong>
+      <strong>☁️ Cloud & DevOps</strong>
     </td>
     <td>
-      <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-      <a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Cloud & DevOps</strong>
-    </td>
-    <td>
-      <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-      <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
-      <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-      <a href="https://kubernetes.io/"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -85,38 +76,58 @@ A passionate AI/ML developer with strong skills in data analytics, web developme
 
 ---
 
-### 🚀 Projects
-| Project                                       | Description                                                                                             | Tech Stack                                     | Link(s)                                                                                                                                  |
-| --------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| **🤖 Your AI Project Title** | A concise, one-sentence description of the problem this project solves and its key feature.             | `PyTorch` `FastAPI` `React` `Docker`           | [**Live Demo**](https://example.com) <br/> [**GitHub Repo**](https://github.com/prnv007-rgb/your-repo-name)                               |
-| **📈 Your Full-Stack Project Title** | A concise, one-sentence description of the problem this project solves and its key feature.             | `Node.js` `Express` `MongoDB` `React`          | [**Live Demo**](https://example.com) <br/> [**GitHub Repo**](https://github.com/prnv007-rgb/your-repo-name)                               |
-| **👁️ Your Computer Vision Project Title** | A concise, one-sentence description of the problem this project solves and its key feature.             | `TensorFlow` `OpenCV` `Python` `Streamlit`     | [**Video Demo**](https://youtube.com/link) <br/> [**GitHub Repo**](https://github.com/prnv007-rgb/your-repo-name)                             |
+### 🚀 My Projects
+
+Here are a few projects I've worked on. I'm always looking for new challenges, so feel free to check them out!
+| Project Title                               | Description                                                              | Tech Stack                                     | Links                                                                                                                                  |
+| ------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **🤖 AI-Powered Article Summarizer** | A web app that uses a Transformer model to summarize long articles.      | `PyTorch` `FastAPI` `React` `Docker`           | [**Live Demo**](https://example.com) <br/> [**GitHub**](https://github.com/prnv007-rgb/your-repo)                                       |
+| **📈 Real-time Stock Dashboard** | A full-stack app to visualize stock data with interactive charts.        | `Node.js` `MongoDB` `React` `Chart.js`         | [**Live Demo**](https://example.com) <br/> [**GitHub**](https://github.com/prnv007-rgb/your-repo)                                       |
+| **👁️ Sign Language Recognition System** | A deep learning model to interpret ASL in real-time.                     | `TensorFlow` `OpenCV` `Streamlit`              | [**Video Demo**](https://youtube.com/link) <br/> [**GitHub**](https://github.com/prnv007-rgb/your-repo)                                 |
 
 ---
 
-### 📚 Blog Posts
----
+### 📊 My GitHub Stats & Activity
 
 <details>
-<summary><strong>📈 GitHub Stats & Trophies</strong></summary>
+<summary>Click to see my GitHub stats and trophies</summary>
 <br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prnv007-rgb&show_icons=true&theme=radical&rank_icon=github" alt="Pranav's GitHub Stats"/>
-  <br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prnv007-rgb&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Pranav's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prnv007-rgb&theme=radical" alt="GitHub Streak"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnv007-rgb&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-<p align="center">
+  <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=prnv007-rgb&theme=radical&column=7" alt="trophy" />
   </a>
-</p>
+</div>
 </details>
 
 ---
 
+### 🎮 Just for Fun
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/prnv007-rgb/prnv007-rgb/output/github-contribution-grid-snake.svg" alt="snake"/>
+
+  <br/>
+
+  <a href="https://novatorem.vercel.app/api/spotify" target="_blank">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="350px" />
+  </a>
+
+  <br/>
+
+  <a href="https://readme-jokes.vercel.app/api" target="_blank">
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  </a>
+
+</div>
+
+---
+
 <p align="center">
-  Made with ❤️ in India
+  Made with ❤️ and a lot of coffee in India
 </p>
 ```
