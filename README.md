@@ -35,7 +35,7 @@ All my work, experiments, and AI constructs are archived in the secure server li
 `Connection open for collaboration, inquiries, or discussions on dystopian futures.`
 
 <p>
-  <a href="https://linkedin.com/in/pranavmallia">
+  <a href="https://www.linkedin.com/in/pranav-r-mallia/">
     <img src="https://img.shields.io/badge/LinkedIn_Protocol-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
