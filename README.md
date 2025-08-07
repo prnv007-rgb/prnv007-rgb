@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-                                                 █▓▒▒░░░ PRANAV R. MALLIA ░░░▒▒▓█
+                                                  █▓▒▒░░░ PRANAV R. MALLIA ░░░▒▒▓█
 ```
 
 **`STATUS:`** `ONLINE` • **`ROLE:`** `AI/ML DEVELOPER` • **`LOCATION:`** `[CLASSIFIED]`
