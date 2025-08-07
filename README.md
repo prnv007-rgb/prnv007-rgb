@@ -24,9 +24,15 @@ All experimental builds, neural networks, and AI constructs are stored in the se
 ### ⚡ ACTIVE PROTOCOLS
 
 ```bash
-> PRIMARY_MISSION    :: Forge the ultimate Recommender Engine Core
-> SIMULATION_LAB     :: Fine-tune LLMs for lifelike AI avatars  
-> DATA_ARCHAEOLOGY   :: Decode and reorganize chaotic data realms
+EMBEDDING_PIPELINE :: Turn raw data into usable vector representations
+
+DATA_CLEAN_ROOM  :: Process and refine datasets for downstream models
+
+CONTEXT_BUILDER  :: Organize unstructured data for better retrieval & generation
+
+FAISS_FACTORY   :: Build and test vector indexes from embedded datasets
+
+RAG_PREP_ZONE   :: Set up retrieval data for generation tasks
 ```
 
 ### 📡 ESTABLISH CONNECTION
