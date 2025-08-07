@@ -1,20 +1,17 @@
 <div align="center">
 
+```
 █▓▒▒░░░ PRANAV R. MALLIA ░░░▒▒▓█
+```
 
-STATUS: ONLINE
-SPECIALIZATION: AI/ML DEVELOPMENT
-LOCATION: [REDACTED]
+**`STATUS:`** `ONLINE` • **`ROLE:`** `AI/ML DEVELOPER` • **`LOCATION:`** `[CLASSIFIED]`
 
+---
 
-</div>
+### 🔐 ACCESS GRANTED
+*Neural interface initialized. Welcome to the mainframe.*
 
-## > AUTHENTICATION REQUIRED
-
-**Accessing Neural Link... Connection established.**
-**Welcome, user. You have been granted temporary access to my project mainframe.**
-
-All my work, experiments, and AI constructs are archived in the secure server linked below. Proceed with caution.
+All experimental builds, neural networks, and AI constructs are stored in the secure repository below.
 
 <p align="center">
   <a href="https://main-page-git-main-pranavs-projects-6bbf29bb.vercel.app/">
@@ -24,19 +21,25 @@ All my work, experiments, and AI constructs are archived in the secure server li
 
 ---
 
-### > SYSTEM LOGS
+### ⚡ ACTIVE PROTOCOLS
 
-- **[PRIMARY OBJECTIVE]** Forge the ultimate Recommender Engine Core.  
-- **[SIMULATION]** Fine-tune LLMs for lifelike AI avatars.  
-- **[HOBBY MISSION]** Decode and reorganize the chaos of raw data realms.  
+```bash
+> PRIMARY_MISSION    :: Forge the ultimate Recommender Engine Core
+> SIMULATION_LAB     :: Fine-tune LLMs for lifelike AI avatars  
+> DATA_ARCHAEOLOGY   :: Decode and reorganize chaotic data realms
+```
 
+### 📡 ESTABLISH CONNECTION
 
-### > ESTABLISH CONTACT
+Ready to collaborate on neural architectures, discuss algorithmic philosophies, or explore digital dystopias.
 
-`Connection open for collaboration, inquiries, or discussions on dystopian futures.`
-
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/pranav-r-mallia/">
     <img src="https://img.shields.io/badge/LinkedIn_Protocol-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
+
+---
+*`>> Connection secured. Awaiting transmission...`*
+
+</div>
